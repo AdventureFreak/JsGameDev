@@ -11,7 +11,7 @@ var mainPlayer = {
 
 mainPlayer.name = prompt("Enter your name");
 
-alert("Wlcome " + mainPlayer.name);
+alert("Welcome " + mainPlayer.name);
 
 var phrases = [
     prompt("Please enter your mother's maiden name."),
